@@ -1,0 +1,19 @@
+.container {
+	width: 400px;
+	height: 300px;
+	position: relative;
+	text-align: center;
+}
+.image {
+	background-image: url(robert-anasch-50vvwcNFFzU-unsplash.jpg) no-repeat;
+	width: 400px;
+	height: 300px;
+	background-size: cover;
+	display: flex;
+}
+.text {
+	color: /*white*/blue;
+	font-size: 40px;
+	position: absolute;
+	left: 50%;
+}
